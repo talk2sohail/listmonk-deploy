@@ -16,5 +16,5 @@ This example deploys self-hosted version of [Listmonk](https://listmonk.app/).
 - Deploy! 🚄
 
 ## 📝 Notes
-- Source repo: https://github.com/knadh/listmonk
+- Source repo: https://github.com/talk2sohail/listmonk
 - Docs: https://listmonk.app/docs/
